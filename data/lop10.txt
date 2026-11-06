@@ -1,0 +1,28 @@
+<title>Lợi ích của việc đi bộ buổi sáng
+<p>Bắt đầu ngày mới bằng một chuyến đi bộ là thói quen đơn giản nhất để xây dựng. Bạn không cần dụng cụ gì và chỉ mất vài phút.
+<img>"/assets/di_bo1.jpg" {left}</img>
+</p>
+<p>Đi bộ buổi sáng giúp cơ thể đón ánh sáng tự nhiên, điều hòa giấc ngủ và tăng sự tỉnh táo trong cả ngày.</p>
+<img>"/assets/di_bo2.jpg" {center}</img>
+<p>Đi bộ thường xuyên cũng tốt cho tim mạch và giúp tinh thần phấn chấn hơn.</p>
+<p>Để duy trì thói quen, hãy chọn một giờ cố định và một tuyến đường ngắn.</p>
+</title>
+
+<title>Vì sao nên đọc sách mỗi ngày
+<p>Đọc sách hằng ngày giúp mở rộng vốn từ, cải thiện sự tập trung và là cách thư giãn nhẹ nhàng sau một ngày bận rộn.</p>
+<img>"/assets/doc_sach1.jpg" {right}</img>
+<p>Chỉ cần mười trang mỗi ngày, bạn đã đọc được vài cuốn sách mỗi năm.
+<img>"/assets/doc_sach2.jpg" {right}</img>
+</p>
+<p>Hãy chọn những cuốn sách bạn thật sự yêu thích để dễ duy trì thói quen.</p>
+<p>Đặt sách ở nơi dễ với tay và dành bớt thời gian lướt điện thoại cho việc đọc.</p>
+</title>
+
+<title>Uống đủ nước mỗi ngày
+<p>Nước chiếm phần lớn cơ thể và tham gia vào hầu hết các hoạt động sống.
+<img>"/assets/nuoc1.jpg" {center}</img>
+</p>
+<p>Mang theo một chai nước bên mình sẽ giúp bạn nhớ uống thường xuyên hơn.</p>
+<img>"/assets/nuoc2.jpg" {left}</img>
+<p>Có thể đặt nhắc nhở trên điện thoại để uống nước vào những khung giờ cố định.</p>
+</title>

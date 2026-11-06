@@ -1,0 +1,12 @@
+@part &n Tiêu đề lớn 1
+@section &n Tiêu đề nhỏ 1
+{p} đoạn văn bản 1 &e
+{p} đoạn văn bản 2 &e
+{img} "hinhanh1" {left|center|right} &n tên ảnh
+{p} đoạn văn 3 >e
+@/section
+@section &n Tiêu đề nhỏ 2
+...
+@/part
+@part &n Tiêu đề lớn 2
+...

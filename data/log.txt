@@ -1,0 +1,76 @@
+
+        <section class="Section" data-section-id="0">
+            <div class="sectionHead">
+                <span>
+                    <h2 id="Chương 1: Kỷ Nguyên Số Và Cuộc Cách Mạng Trí Tuệ Nhân Tạo"> Chương 1: Kỷ Nguyên Số Và Cuộc Cách Mạng Trí Tuệ Nhân Tạo </h2>
+                </span>
+            <div>
+            
+            <section class="subSection" data-subsection-id="0">
+                <div class="subSectionHead">
+                    <span>
+                        <h3 id="1.1 Sự Trỗi Dậy Của Hệ Thống Học Máy> 1.1 Sự Trỗi Dậy Của Hệ Thống Học Máy </h3>
+                    </span>
+                </div>
+                <p> Trí tuệ nhân tạo (AI) đã chuyển mình từ một ngành nghiên cứu lý thuyết trong các phòng thí nghiệm thành động lực chính thúc đẩy nền kinh tế toàn cầu. Sự phát triển mạnh mẽ của phần cứng máy tính cùng lượng dữ liệu khổng lồ được tạo ra mỗi ngày đã làm sống lại các mô hình mạng thần kinh nhân tạo vốn bị lãng quên trong nhiều thập kỷ. </p>
+<p> Học sâu (Deep Learning), một nhánh con của học máy, đã chứng minh được hiệu quả vượt trội trong việc xử lý các dữ liệu phi cấu trúc như hình ảnh, âm thanh và văn bản tự nhiên nhờ vào kiến trúc gồm nhiều tầng ẩn xếp chồng lên nhau. </p>
+
+    <figure class="figImg">
+        <img src="" style="float:undefined">
+        <figcaption>  </figcaption>
+    </figure>
+            </section>
+
+            <section class="subSection" data-subsection-id="1">
+                <div class="subSectionHead">
+                    <span>
+                        <h3 id="1.2 Mô Hình Ngôn Ngữ Lớn Và Ứng Dụng Thực Tiễn> 1.2 Mô Hình Ngôn Ngữ Lớn Và Ứng Dụng Thực Tiễn </h3>
+                    </span>
+                </div>
+                <p> Các mô hình ngôn ngữ lớn (LLM) dựa trên kiến trúc Transformer đã tạo nên một bước ngoặt lớn trong cách con người tương tác với máy tính, cho phép hệ thống hiểu và tạo ra văn bản tự nhiên một cách mạch lạc. </p>
+<p> Không chỉ dừng lại ở việc trò chuyện, các mô hình này hiện đang được tích hợp sâu vào quy trình lập trình tự động, phân tích tài chính, dịch thuật đa ngôn ngữ và hỗ trợ sáng tạo nội dung nghệ thuật. </p>
+
+    <figure class="figImg">
+        <img src="" style="float:undefined">
+        <figcaption>  </figcaption>
+    </figure>
+            </section>
+        </section>
+
+        <section class="Section" data-section-id="1">
+            <div class="sectionHead">
+                <span>
+                    <h2 id="Chương 2: Hạ Tầng Dữ Liệu Và An Ninh Mạng Toàn Cầu"> Chương 2: Hạ Tầng Dữ Liệu Và An Ninh Mạng Toàn Cầu </h2>
+                </span>
+            <div>
+            
+            <section class="subSection" data-subsection-id="0">
+                <div class="subSectionHead">
+                    <span>
+                        <h3 id="2.1 Kiến Trúc Điện Toán Đám Mây Hiện Đại> 2.1 Kiến Trúc Điện Toán Đám Mây Hiện Đại </h3>
+                    </span>
+                </div>
+                <p> Việc chuyển dịch toàn bộ hệ thống lưu trữ từ máy chủ vật lý cục bộ sang hạ tầng điện toán đám mây đã giúp các doanh nghiệp tối ưu hóa chi phí vận hành và mở rộng quy mô một cách linh hoạt. </p>
+<p> Các mô hình kết hợp như Hybrid Cloud và Multi-Cloud đang trở thành tiêu chuẩn lựa chọn hàng đầu nhằm giảm thiểu rủi ro phụ thuộc vào một nhà cung cấp dịch vụ duy nhất và tăng cường khả năng dự phòng dữ liệu. </p>
+
+    <figure class="figImg">
+        <img src="" style="float:undefined">
+        <figcaption>  </figcaption>
+    </figure>
+            </section>
+
+            <section class="subSection" data-subsection-id="1">
+                <div class="subSectionHead">
+                    <span>
+                        <h3 id="2.2 Thách Thức Bảo Mật Trong Kỷ Nguyên Kết Nối> 2.2 Thách Thức Bảo Mật Trong Kỷ Nguyên Kết Nối </h3>
+                    </span>
+                </div>
+                <p> Khi mọi thiết bị đều được kết nối với Internet thông qua làn sóng IoT, bề mặt tấn công của các tổ chức tội phạm mạng cũng theo đó mà mở rộng gấp nhiều lần. </p>
+<p> Kiến trúc an ninh mạng "Zero Trust" (Không tin tưởng bất kỳ ai) đang dần thay thế cho mô hình bảo mật tường lửa truyền thống, yêu cầu xác thực liên tục mọi truy cập dù ở trong hay ngoài mạng nội bộ. </p>
+
+    <figure class="figImg">
+        <img src="" style="float:undefined">
+        <figcaption>  </figcaption>
+    </figure>
+            </section>
+        </section>

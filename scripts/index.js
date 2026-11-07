@@ -15,5 +15,17 @@ if(!topbutton.innerHTML){
                 <button class='topbutton'>Lớp 12</button>
             </a>`
     );
-    console.log("aa")
 }
+
+const linkbox = document.getElementById('linkbox');
+const linkboxHtml = `
+<nav class='linkcontainer'>
+    <div class='header-linkbox-buttons'>
+        <button class='selectbutton selectbutton-onActive-true' id='daiso'>Đại số</button>
+        <button class='selectbutton selectbutton-onActive-false' id='hinhhoc'>Hình học</button>
+    </div>
+        <ul class='container-show-true' id='ldaiso'></ul>
+        <ul class='container-show-false' id='lhinhhoc'></ul>
+</nav>
+`;
+linkbox.innerHTML = linkboxHtml;

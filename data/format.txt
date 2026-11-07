@@ -1,12 +1,14 @@
-@part Tiêu đề lớn 1
-@section Tiêu đề nhỏ 1
+@lv1 Tiêu đề lớn 1
+@lv2 Tiêu đề nhỏ 1
+@lv3 Tiêu đề nhỏ hơn 1
 {p} đoạn văn bản 1 &e
 {p} đoạn văn bản 2 &e
+@/lv3
 {img} "hinhanh1" {left|center|right} &n tên ảnh
 {p} đoạn văn 3 &e
-@/section
-@section Tiêu đề nhỏ 2
+@/lv2
+@lv2 Tiêu đề nhỏ 2
 ...
-@/part
-@part Tiêu đề lớn 2
+@/lv1
+@lv1 Tiêu đề lớn 2
 ...

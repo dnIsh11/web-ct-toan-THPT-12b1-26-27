@@ -1,31 +1,131 @@
-@part Chương 1: Kỷ Nguyên Số Và Cuộc Cách Mạng Trí Tuệ Nhân Tạo
-@section 1.1 Sự Trỗi Dậy Của Hệ Thống Học Máy
-{p} Trí tuệ nhân tạo (AI) đã chuyển mình từ một ngành nghiên cứu lý thuyết trong các phòng thí nghiệm thành động lực chính thúc đẩy nền kinh tế toàn cầu. Sự phát triển mạnh mẽ của phần cứng máy tính cùng lượng dữ liệu khổng lồ được tạo ra mỗi ngày đã làm sống lại các mô hình mạng thần kinh nhân tạo vốn bị lãng quên trong nhiều thập kỷ. &e
-{p} Học sâu (Deep Learning), một nhánh con của học máy, đã chứng minh được hiệu quả vượt trội trong việc xử lý các dữ liệu phi cấu trúc như hình ảnh, âm thanh và văn bản tự nhiên nhờ vào kiến trúc gồm nhiều tầng ẩn xếp chồng lên nhau. &e
-{img} "ai_evolution_timeline" {center} &n Sơ đồ các cột mốc phát triển của Trí tuệ nhân tạo qua các thời kỳ
-{p} Quá trình huấn luyện này đòi hỏi tài nguyên tính toán cực kỳ lớn nhưng kết quả mang lại đã vượt qua ranh giới con người trong nhiều tác vụ chuyên biệt. >e
-@/section
+@lv1 Hướng Dẫn Toàn Diện Về Lập Trình Web Hiện Đại
 
-@section 1.2 Mô Hình Ngôn Ngữ Lớn Và Ứng Dụng Thực Tiễn
-{p} Các mô hình ngôn ngữ lớn (LLM) dựa trên kiến trúc Transformer đã tạo nên một bước ngoặt lớn trong cách con người tương tác với máy tính, cho phép hệ thống hiểu và tạo ra văn bản tự nhiên một cách mạch lạc. &e
-{p} Không chỉ dừng lại ở việc trò chuyện, các mô hình này hiện đang được tích hợp sâu vào quy trình lập trình tự động, phân tích tài chính, dịch thuật đa ngôn ngữ và hỗ trợ sáng tạo nội dung nghệ thuật. &e
-{img} "transformer_architecture" {right} &n Kiến trúc mạng Transformer với cơ chế tự chú ý (Self-Attention)
-{p} Tuy nhiên, thách thức lớn nhất hiện nay vẫn là hiện tượng "ảo tưởng" (hallucination) khi mô hình tự tạo ra các thông tin sai lệch nhưng có vẻ vô cùng thuyết phục. >e
-@/section
-@/part
+@lv2 Tổng Quan Về Phát Triển Front-End
 
-@part Chương 2: Hạ Tầng Dữ Liệu Và An Ninh Mạng Toàn Cầu
-@section 2.1 Kiến Trúc Điện Toán Đám Mây Hiện Đại
-{p} Việc chuyển dịch toàn bộ hệ thống lưu trữ từ máy chủ vật lý cục bộ sang hạ tầng điện toán đám mây đã giúp các doanh nghiệp tối ưu hóa chi phí vận hành và mở rộng quy mô một cách linh hoạt. &e
-{p} Các mô hình kết hợp như Hybrid Cloud và Multi-Cloud đang trở thành tiêu chuẩn lựa chọn hàng đầu nhằm giảm thiểu rủi ro phụ thuộc vào một nhà cung cấp dịch vụ duy nhất và tăng cường khả năng dự phòng dữ liệu. &e
-{img} "cloud_datacenter_infrastructure" {left} &n Sơ đồ phân bổ và kết nối của các trung tâm dữ liệu đám mây toàn cầu
-{p} Sự ổn định của hạ tầng này phụ thuộc rất lớn vào các đường cáp quang biển xuyên đại dương và hệ thống làm mát hiệu năng cao. >e
-@/section
+@lv3 Ngôn Ngữ Đánh Dấu HTML5
 
-@section 2.2 Thách Thức Bảo Mật Trong Kỷ Nguyên Kết Nối
-{p} Khi mọi thiết bị đều được kết nối với Internet thông qua làn sóng IoT, bề mặt tấn công của các tổ chức tội phạm mạng cũng theo đó mà mở rộng gấp nhiều lần. &e
-{p} Kiến trúc an ninh mạng "Zero Trust" (Không tin tưởng bất kỳ ai) đang dần thay thế cho mô hình bảo mật tường lửa truyền thống, yêu cầu xác thực liên tục mọi truy cập dù ở trong hay ngoài mạng nội bộ. &e
-{img} "zero_trust_framework" {center} &n Mô hình phân lớp bảo mật theo kiến trúc Zero Trust hiện đại
-{p} Việc nâng cao nhận thức của con người vẫn là mắt xích quan trọng nhất vì các cuộc tấn công kỹ thuật xã hội (Social Engineering) vẫn luôn mang lại hiệu quả cao cho kẻ tấn công. >e
-@/section
-@/part
+{p} HTML5 là nền tảng cốt lõi của mọi trang web hiện đại. Nó định hình cấu trúc và nội dung hiển thị trên trình duyệt. &e
+
+{p} Việc sử dụng đúng các thẻ semantic như header, nav, article, và footer giúp tối ưu hóa SEO và tăng khả năng truy cập cho người dùng. &e
+
+@/lv3
+
+{img} "html5_structure.png" {center} &n Sơ đồ cấu trúc Semantic trong HTML5
+
+{p} Qua sơ đồ trên, ta thấy việc phân chia bố cục rõ ràng giúp trình duyệt và các công cụ tìm kiếm dễ dàng hiểu được ngữ cảnh của trang web hơn. &e
+
+@lv3 Trang Trí Với CSS3 Và Tailwind CSS
+
+{p} CSS3 mang lại khả năng tùy biến giao diện mạnh mẽ với Flexbox và Grid System. &e
+
+{p} Ngày nay, các framework như Tailwind CSS đang trở nên phổ biến nhờ phương pháp Utility-First, giúp tăng tốc độ phát triển giao diện đáng kể. &e
+
+@/lv3
+
+{img} "css_responsive_design.png" {left} &n Giao diện Responsive trên nhiều thiết bị
+
+{p} Khả năng tương thích trên nhiều màn hình thiết bị khác nhau là tiêu chuẩn bắt buộc cho mọi ứng dụng web hiện đại. &e
+
+@/lv2
+
+@lv2 Ngôn Ngữ Lập Trình JavaScript Và Ecosystem
+
+@lv3 JavaScript ES6+
+
+{p} JavaScript đã phát triển vượt bậc kể từ phiên bản ES6 với nhiều tính năng mới như Arrow Functions, Promises, và Async/Await. &e
+
+{p} Quản lý bất đồng bộ trở nên dễ dàng và rõ ràng hơn, giảm thiểu tình trạng Callback Hell trong các ứng dụng phức tạp. &e
+
+@/lv3
+
+@lv3 Các Framework Front-End Phổ Biến
+
+{p} React, Vue.js và Angular là ba trụ cột chính trong việc xây dựng Single Page Applications (SPA). &e
+
+{p} React nổi bật với cơ chế Virtual DOM và hệ sinh thái Hooks linh hoạt, giúp quản lý state hiệu quả. &e
+
+@/lv3
+
+{img} "js_frameworks_comparison.png" {right} &n Biểu đồ so sánh hiệu năng các Framework JS
+
+{p} Lựa chọn framework phù hợp phụ thuộc vào quy mô dự án và năng lực của đội ngũ phát triển. &e
+
+@/lv2
+
+@/lv1
+
+
+
+@lv1 Kiến Trúc Back-End Và Cơ Sở Dữ Liệu
+
+@lv2 Xây Dựng Web API Với Node.js
+
+@lv3 Tổng Quan Về Node.js Runtime
+
+{p} Node.js cho phép chạy JavaScript ở phía server dựa trên V8 Engine của Google Chrome. &e
+
+{p} Kiến trúc Event-driven và Non-blocking I/O giúp Node.js xử lý hàng nghìn kết nối đồng thời với hiệu năng cao. &e
+
+@/lv3
+
+{img} "nodejs_event_loop.png" {center} &n Cơ chế hoạt động của Event Loop trong Node.js
+
+{p} Việc hiểu rõ Event Loop là chìa khóa để tối ưu hóa tốc độ xử lý của các ứng dụng Node.js. &e
+
+@/lv2
+
+@lv2 Lựa Chọn Cơ Sở Dữ Liệu
+
+@lv3 Cơ Sở Dữ Liệu Quan Hệ (Relational DB)
+
+{p} PostgreSQL và MySQL vẫn là sự lựa chọn hàng đầu cho các ứng dụng đòi hỏi tính toàn vẹn dữ liệu cao với chuẩn ACID. &e
+
+{p} Thiết kế lược đồ bảng (Schema) và đánh chỉ mục (Index) hợp lý sẽ tối ưu hóa tốc độ truy vấn đáng kể. &e
+
+@/lv3
+
+@lv3 Cơ Sở Dữ Liệu NoSQL
+
+{p} MongoDB và Redis đại diện cho giải pháp lưu trữ dữ liệu phi cấu trúc và lưu trữ dữ liệu dạng Key-Value trong bộ nhớ tạm (Cache). &e
+
+{p} NoSQL mang lại khả năng mở rộng hàng ngang (Horizontal Scaling) linh hoạt cho các ứng dụng Big Data. &e
+
+@/lv3
+
+{img} "database_architecture.png" {center} &n Mô hình kết hợp SQL và NoSQL trong hệ thống lớn
+
+{p} Việc kết hợp cả SQL và NoSQL trong một kiến trúc microservices giúp tối ưu hóa điểm mạnh của từng loại cơ sở dữ liệu. &e
+
+@/lv2
+
+@/lv1
+
+
+
+@lv1 Quy Trình Triển Khai Và DevOps
+
+@lv2 Quản Lý Mã Nguồn Và CI/CD
+
+@lv3 Git Và GitFlow
+
+{p} Git là hệ thống quản lý phiên bản phân tán không thể thiếu trong quy trình làm việc của mọi nhóm phát triển phần mềm. &e
+
+{p} Mô hình GitFlow giúp phân chia rõ ràng các nhánh feature, develop, release và hotfix. &e
+
+@/lv3
+
+@lv3 Tự Động Hóa Với CI/CD Pipeline
+
+{p} GitHub Actions và GitLab CI giúp tự động hóa quá trình kiểm thử (Automated Testing) và triển khai (Deployment). &e
+
+{p} Mọi thay đổi mã nguồn được kiểm tra kỹ lưỡng trước khi đưa lên môi trường Production, giảm thiểu rủi ro lỗi hệ thống. &e
+
+@/lv3
+
+{img} "cicd_pipeline_flow.png" {right} &n Quy trình hoạt động của một CI/CD Pipeline
+
+{p} Việc thiết lập CI/CD hoàn chỉnh giúp rút ngắn thời gian phát hành sản phẩm và nâng cao chất lượng mã nguồn. &e
+
+@/lv2
+
+@/lv1

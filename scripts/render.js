@@ -13,8 +13,8 @@ function parseImg(inner){
 }
 
 function parseDocument(text) {
-    const PartRe = /@part\s*&n([^\r\n]*)([\s\S]*?)@\/part/g;
-    const SectRe = /@section\s*&n([^\r\n]*)([\s\S]*?)@\/section/g;
+    const PartRe = /@part\s*([^\r\n]*)([\s\S]*?)@\/part/g;
+    const SectRe = /@section\s*([^\r\n]*)([\s\S]*?)@\/section/g;
     const ItemRe = /{p}([\s\S]*?)&e|{img}([^\r\n]*)/g;
 
     const Doc = [];

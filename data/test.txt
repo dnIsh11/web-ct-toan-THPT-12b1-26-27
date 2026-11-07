@@ -1,12 +1,12 @@
-@part &n Chương 1: Kỷ Nguyên Số Và Cuộc Cách Mạng Trí Tuệ Nhân Tạo
-@section &n 1.1 Sự Trỗi Dậy Của Hệ Thống Học Máy
+@part Chương 1: Kỷ Nguyên Số Và Cuộc Cách Mạng Trí Tuệ Nhân Tạo
+@section 1.1 Sự Trỗi Dậy Của Hệ Thống Học Máy
 {p} Trí tuệ nhân tạo (AI) đã chuyển mình từ một ngành nghiên cứu lý thuyết trong các phòng thí nghiệm thành động lực chính thúc đẩy nền kinh tế toàn cầu. Sự phát triển mạnh mẽ của phần cứng máy tính cùng lượng dữ liệu khổng lồ được tạo ra mỗi ngày đã làm sống lại các mô hình mạng thần kinh nhân tạo vốn bị lãng quên trong nhiều thập kỷ. &e
 {p} Học sâu (Deep Learning), một nhánh con của học máy, đã chứng minh được hiệu quả vượt trội trong việc xử lý các dữ liệu phi cấu trúc như hình ảnh, âm thanh và văn bản tự nhiên nhờ vào kiến trúc gồm nhiều tầng ẩn xếp chồng lên nhau. &e
 {img} "ai_evolution_timeline" {center} &n Sơ đồ các cột mốc phát triển của Trí tuệ nhân tạo qua các thời kỳ
 {p} Quá trình huấn luyện này đòi hỏi tài nguyên tính toán cực kỳ lớn nhưng kết quả mang lại đã vượt qua ranh giới con người trong nhiều tác vụ chuyên biệt. >e
 @/section
 
-@section &n 1.2 Mô Hình Ngôn Ngữ Lớn Và Ứng Dụng Thực Tiễn
+@section 1.2 Mô Hình Ngôn Ngữ Lớn Và Ứng Dụng Thực Tiễn
 {p} Các mô hình ngôn ngữ lớn (LLM) dựa trên kiến trúc Transformer đã tạo nên một bước ngoặt lớn trong cách con người tương tác với máy tính, cho phép hệ thống hiểu và tạo ra văn bản tự nhiên một cách mạch lạc. &e
 {p} Không chỉ dừng lại ở việc trò chuyện, các mô hình này hiện đang được tích hợp sâu vào quy trình lập trình tự động, phân tích tài chính, dịch thuật đa ngôn ngữ và hỗ trợ sáng tạo nội dung nghệ thuật. &e
 {img} "transformer_architecture" {right} &n Kiến trúc mạng Transformer với cơ chế tự chú ý (Self-Attention)
@@ -14,15 +14,15 @@
 @/section
 @/part
 
-@part &n Chương 2: Hạ Tầng Dữ Liệu Và An Ninh Mạng Toàn Cầu
-@section &n 2.1 Kiến Trúc Điện Toán Đám Mây Hiện Đại
+@part Chương 2: Hạ Tầng Dữ Liệu Và An Ninh Mạng Toàn Cầu
+@section 2.1 Kiến Trúc Điện Toán Đám Mây Hiện Đại
 {p} Việc chuyển dịch toàn bộ hệ thống lưu trữ từ máy chủ vật lý cục bộ sang hạ tầng điện toán đám mây đã giúp các doanh nghiệp tối ưu hóa chi phí vận hành và mở rộng quy mô một cách linh hoạt. &e
 {p} Các mô hình kết hợp như Hybrid Cloud và Multi-Cloud đang trở thành tiêu chuẩn lựa chọn hàng đầu nhằm giảm thiểu rủi ro phụ thuộc vào một nhà cung cấp dịch vụ duy nhất và tăng cường khả năng dự phòng dữ liệu. &e
 {img} "cloud_datacenter_infrastructure" {left} &n Sơ đồ phân bổ và kết nối của các trung tâm dữ liệu đám mây toàn cầu
 {p} Sự ổn định của hạ tầng này phụ thuộc rất lớn vào các đường cáp quang biển xuyên đại dương và hệ thống làm mát hiệu năng cao. >e
 @/section
 
-@section &n 2.2 Thách Thức Bảo Mật Trong Kỷ Nguyên Kết Nối
+@section 2.2 Thách Thức Bảo Mật Trong Kỷ Nguyên Kết Nối
 {p} Khi mọi thiết bị đều được kết nối với Internet thông qua làn sóng IoT, bề mặt tấn công của các tổ chức tội phạm mạng cũng theo đó mà mở rộng gấp nhiều lần. &e
 {p} Kiến trúc an ninh mạng "Zero Trust" (Không tin tưởng bất kỳ ai) đang dần thay thế cho mô hình bảo mật tường lửa truyền thống, yêu cầu xác thực liên tục mọi truy cập dù ở trong hay ngoài mạng nội bộ. &e
 {img} "zero_trust_framework" {center} &n Mô hình phân lớp bảo mật theo kiến trúc Zero Trust hiện đại

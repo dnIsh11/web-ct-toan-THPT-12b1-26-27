@@ -51,7 +51,7 @@ function imgHtml(img){
     }
     return (
     `<figure class="figImg">
-        <img src="${escapeHtml(img.src)}" style="${style}" onerror="this.onerror=null; this.src='/assets/emergency-image-on-failedLoaded.jpg';">
+        <img src="${escapeHtml(img.src)}" style="${style}" onerror="this.onerror=null; this.src='/assets/emergency-image-on-failedLoading.jpg';">
         <figcaption> ${escapeHtml(img.name)} </figcaption>
     </figure>`);
 }
@@ -63,7 +63,7 @@ function buildHtml(Doc){
         if (part.type === "section"){
             return (
                 `<section data-local-section-id="${index}">
-                    <div class="heading-section heading-section${part.level}">
+                    <div class="heading-section heading-section-${part.level}">
                         <h${part.level} id="${udlcase(part.name)}">${part.name}</h${part.level}>
                     </div>
                     ${buildHtml(part.data)}
